@@ -112,7 +112,7 @@ export default function Home() {
         </div>
         <a
           className='block text-blue-500 mt-4'
-          href='https://blog.cb-ashik.me/stripe-checkout-with-nextjs'
+          href='https://thien.me/stripe-checkout-with-nextjs'
         >
           Read Blog
         </a>
